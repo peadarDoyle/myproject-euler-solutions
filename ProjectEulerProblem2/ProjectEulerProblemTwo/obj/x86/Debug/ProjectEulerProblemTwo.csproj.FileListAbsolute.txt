@@ -1,5 +1,0 @@
-C:\VS Projects\ProjectEulerProblemTwo\ProjectEulerProblemTwo\bin\Debug\ProjectEulerProblemTwo.exe
-C:\VS Projects\ProjectEulerProblemTwo\ProjectEulerProblemTwo\bin\Debug\ProjectEulerProblemTwo.pdb
-C:\VS Projects\ProjectEulerProblemTwo\ProjectEulerProblemTwo\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\VS Projects\ProjectEulerProblemTwo\ProjectEulerProblemTwo\obj\x86\Debug\ProjectEulerProblemTwo.exe
-C:\VS Projects\ProjectEulerProblemTwo\ProjectEulerProblemTwo\obj\x86\Debug\ProjectEulerProblemTwo.pdb
